@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Renan 👋
+
+I'm a Senior Full-Stack Developer from Brazil.
+
+[![Renan Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanwillian)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **renanwillian/renanwillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
