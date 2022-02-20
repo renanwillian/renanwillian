@@ -2,7 +2,9 @@
 
 I'm a Senior Full-Stack Developer from Brazil.
 
-[![Renan Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanwillian)](https://github.com/anuraghazra/github-readme-stats)
+[![renanwillian](https://github-readme-stats.vercel.app/api/top-langs/?username=renanwillian&hide=html&layout=compact&theme=dark&show_icons=true)](https://github.com/renanwillian/)]
+
+[![Renan Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanwillian&theme=dark)](https://github.com/renanwillian/)
 
 
 <!--
