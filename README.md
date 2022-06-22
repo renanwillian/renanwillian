@@ -2,10 +2,11 @@
 
 I'm a Senior Full-Stack Developer from Brazil.
 
-[![renanwillian](https://github-readme-stats.vercel.app/api/top-langs/?username=renanwillian&hide=html&layout=compact&theme=dark&show_icons=true)](https://github.com/renanwillian/)]
-
-[![Renan Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanwillian&theme=dark)](https://github.com/renanwillian/)
-
+<div>
+  <a href="https://github.com/renanwillian/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanwillian&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanwillian&hide=html&layout=compact&theme=dark&show_icons=true" />
+</div>
 
 <!--
 **renanwillian/renanwillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
